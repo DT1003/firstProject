@@ -12,6 +12,10 @@ public class Vehicle {
         System.out.println("Starting a vehicle");
     }
 
+    public void inBetween(){
+        System.out.println("Starting a vehicle");
+    }
+
     public void stop(){
         System.out.println("Stopping a vehicle");
     }
