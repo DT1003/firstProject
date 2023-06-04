@@ -13,7 +13,7 @@ public class Vehicle {
     }
 
     public void inBetween(){
-        System.out.println("Starting a vehicle");
+        System.out.println("In between a vehicle");
     }
 
     public void stop(){
